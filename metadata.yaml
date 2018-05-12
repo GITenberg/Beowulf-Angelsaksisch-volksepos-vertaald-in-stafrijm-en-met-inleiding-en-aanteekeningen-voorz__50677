@@ -1,9 +1,13 @@
 _repo: Beowulf-Angelsaksisch-volksepos-vertaald-in-stafrijm-en-met-inleiding-en-aanteekeningen-voorz__50677
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Simons, L.
     gutenberg_agent_id: '46035'
     url: http://www.gutenberg.org/2009/agents/46035
+covers:
+- cover_type: archival
+  image_path: 50677-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +18,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50677#Beowulf-Angelsaksisch-volksepos-vertaald-in-stafrijm-en-met-inleiding-en-aanteekeningen-voorz_
 gutenberg_issued: '2015-12-12'
 gutenberg_type: Text
 identifiers:
